@@ -1,7 +1,7 @@
 # YelpCamp :national_park:
 This is a website that is use to rent campgroud.
 
-##Technology used
+## Technology used
 1. NodeJs
 2. Express
 3. MongoDb
