@@ -8,4 +8,4 @@ This is a website that is use to rent campgroud.
 
 ## insallation
 * After cloning this repo , run  ``` npm install```
-* Then run using ```node index.js``` 
+* Then run using ```node app.js``` 
